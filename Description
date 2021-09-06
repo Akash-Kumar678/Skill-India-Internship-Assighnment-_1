@@ -1,0 +1,26 @@
+Json Based Inventory Management System
+
+--Functionality It consist
+  1.Add New Item to Inventory
+  2.Remove Item from Inventory
+  3.Buy (create Bill , Update Record.json file ,update Sales.json file)
+  4. To exit from programn
+
+
+Inventory Consist Of Items having Attributes Name, Id , Quantity , Price
+
+Functionality (Remove Item from Inventory)
+   remove item from the record.json
+   
+Billing have functionality like
+  Item Buyed , Quantity, Price, Grand Total, Time of Purchase
+  
+Transaction_id in Sales.json is uniques as it hold the concatenated string which consist year-month-day-hour-minute-second-microsecond
+
+
+---------------------------------------------------------------------------------------------------
+
+I'm Akash Kumar, Pursuin Btech CSE from Roorkee Institue Of Tecnology with aggregate score of 74%
+I have done internshp As web developer At The Spark Foundation
+5 star rated in C++ on Hackerrank.
+My hobbies designing Traveling.
